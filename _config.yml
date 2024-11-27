@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Emily Nazario"
 title_separator          : #TITLE SEP
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Emily Nazario"
+description              : "Ph.D. Candidate, UC Santa Cruz"
+url                      : https://emilynazario.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "emilynazario/emilynazario.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "me.jpeg"
   name             : "Emily Nazario"
   pronouns         : # example: "she/her"  
-  bio              : "The biggest dingledein on earth"
+  bio              : "Ph.D. Candidate, Ecology and Evolutionary Biology"
   location         : "Santa Cruz, CA USA"
   employer         : "UC Santa Cruz"
   uri              : # URL
