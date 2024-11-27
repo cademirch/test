@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<object data="files/Nazario_CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="files/Nazario_CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/Nazario_CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 {% include base_path %}
 
 Education
